@@ -7,7 +7,12 @@ members:
     role:   Group Leader
     image:  assets/images/stefania-thumb.webp
     url:    team/stpetra/index.html
-    
+
+  - name:   Stefanie Adamczyk
+    role:   Team Assistant
+    image:  assets/images/steffi-thumb.webp
+    url:    team/sadamczyk/index.html
+
   - name:   Dr. Roman Schefzik
     role:   Core Facility, Statistical Advisor, Senior Researcher
     image:  assets/images/roman-thumb.webp
@@ -17,11 +22,6 @@ members:
     role:   Statistical Advisor, Researcher
     image:  assets/images/jonathan-thumb.webp
     url:    team/jschwarz/index.html
-
-  - name:   Stefanie Adamczyk
-    role:   Team Assistant
-    image:  assets/images/steffi-thumb.webp
-    url:    team/sadamczyk/index.html
 
   - name:   Yara Elshiaty
     role:   PhD Student
